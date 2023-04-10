@@ -1,0 +1,2 @@
+https://spring.io/quickstart
+https://www.bezkoder.com/spring-boot-jpa-h2-example/

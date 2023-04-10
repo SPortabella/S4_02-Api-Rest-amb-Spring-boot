@@ -1,0 +1,2 @@
+https://spring.io/quickstart
+https://javadesde0.com/crud-rest-con-spring-boot-y-jpa/
